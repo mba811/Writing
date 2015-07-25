@@ -11,6 +11,7 @@ This is the summary of my book.
     * [微信写作与 MarkDown](MarkDown/06.md)
 * [reStructuredText](reStructuredText/README.md)
     * [文档整体解决方案(readthedocs、github 、sphinx)](reStructuredText/01.md)
+    * [使用 sphinx 记笔记](reStructuredText/02.md)
 * [AsciiDoc](AsciiDoc/README.md)
     * [谈 AsciiDoc 的书籍编写](AsciiDoc/01.md)
 * [制作电子书的工具集](ebook/README.md)
