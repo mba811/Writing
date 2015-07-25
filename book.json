@@ -1,0 +1,18 @@
+{
+    "name": "《Writing Tools Study》 | 洛桑扎巴'Book",
+    "version": "0.0.1",
+    "description": "写作工具的取经之路",
+    "links": {
+        "sidebar": {
+            "Home Page of 洛桑扎巴": "http://site.11ten.net/"
+        }
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mba811/Writing.git"
+    },
+    "author": "Tsong khapa <ztd811@yahoo.com>",
+    "dependencies": {
+        "gitbook-plugin-autocover": "0.0.5"
+    }
+}
