@@ -17,4 +17,3 @@ This is the summary of my book.
 * [制作电子书的工具集](ebook/README.md)
     * [GitBook](ebook/01.md)
 * [写作工具的取经之路](writing/README.md)
-    * [example 1](section2/example1.md)
