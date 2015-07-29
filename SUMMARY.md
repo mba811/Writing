@@ -2,6 +2,7 @@
 
 This is the summary of my book.
 
+* [声明](book/copyright.md)
 * [MarkDown](MarkDown/README.md)
     * [MarkDown 资源整理](MarkDown/01.md)
     * [MarkDown 编辑器浅谈](MarkDown/02.md)
